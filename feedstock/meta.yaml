@@ -1,0 +1,30 @@
+title: "Calibrated mass loss projections from the Greenland Ice Sheet"
+description: >-
+  TODO
+
+
+recipes:
+  - id: "gris-mass-loss-projections"
+    object: "recipe:recipe"
+
+
+provenance:
+  # license: "TODO"
+  providers:
+    - name: "ADC"
+      description: >-
+        TODO
+      roles:
+        - "archive"
+      # url: "https://example.com"
+
+
+# TODO: ORCiD
+maintainers:
+  - name: "Trey Stafford"
+    github: "trey-stafford"
+  - name: "Matt Fisher"
+    github: "mfisher87"
+
+
+# bakery: ...
